@@ -1,90 +1,134 @@
-# Steven Kyle Hensley
+# Continuity Record
 
-> Identity continuity, attribution clarity, and historical context.
-
----
-
-## Preferred Attribution
-
-When referencing my work, research, repositories, proposals, discussions, or contributions, I prefer attribution using my full name:
-
-**Steven Kyle Hensley**
-
-This reduces ambiguity across platforms, repositories, discussions, publications, and future archival references.
+> This repository exists because memory is unreliable.
 
 ---
 
-## Known Aliases
+## Why This Exists
 
-The following identifiers may appear throughout public records, repositories, commits, issue discussions, documentation, and collaborative projects:
+Most repositories explain what was built.
 
-- Steven Kyle Hensley
-- Steven K. Hensley
-- Steven Hensley
-- Stevil
-- QueBallSharken
+Few explain how someone arrived there.
 
-These names may refer to the same contributor depending on context.
+This repository preserves the history, decisions, failures, realizations, and continuity artifacts that shaped the work documented elsewhere.
+
+It is not a framework.
+
+It is not a specification.
+
+It is not a product.
+
+It is the record.
 
 ---
 
-## Background
+## The Beginning
 
-I did not arrive through a traditional path.
+Approximately 18 months before this repository was created, I was learning GitHub.
 
-I have no formal computer science degree.
+I had no formal computer science degree.
 
 No formal security education.
 
 No formal systems architecture training.
 
-Most of my education has been self-directed through experimentation, public discussion, open-source collaboration, documentation, implementation, failure, revision, and persistence.
+What I did have was curiosity.
 
-Approximately 18 months before creating this repository, I was learning how GitHub worked.
+That curiosity eventually led me into public discussions, open-source communities, architecture debates, governance conversations, standards efforts, and research projects that I never expected to participate in.
 
-What began as curiosity eventually became an investigation.
+---
+
+## Early Mistakes
+
+The first lesson was simple:
+
+I believed understanding lived in conversations.
+
+It doesn't.
+
+Conversations drift.
+
+People forget.
+
+Contexts change.
+
+Summaries mutate.
+
+AI conversations wander.
+
+Projects split.
+
+Assumptions disappear.
+
+The more complex the work became, the harder continuity became.
 
 ---
 
 ## The Realization
 
-During countless discussions, experiments, repositories, AI conversations, design sessions, and failed assumptions, one lesson repeatedly surfaced:
+Eventually a pattern emerged.
 
-> Conversations drift.
->
-> Memory drifts.
->
-> Documentation drifts.
->
-> Direction drifts.
->
-> Repositories must become the source of truth.
+The repository itself had to become the source of truth.
 
-Not only for code.
+Not only code.
 
-For assumptions.
+Not only documentation.
 
-For decisions.
+Everything.
 
-For intent.
+Direction.
 
-For continuity.
+Intent.
 
-For evidence.
+Assumptions.
 
-For understanding.
+Status.
 
-This realization became a foundational influence on many of the systems, repositories, and research efforts documented throughout my work.
+Open questions.
+
+Decisions.
+
+Current state.
+
+Historical state.
+
+Handoffs.
+
+Evidence.
+
+Understanding.
+
+If continuity matters, continuity must be documented.
+
+---
+
+## The Ghost
+
+Long before formal terminology existed, I kept returning to a simple idea:
+
+> I want to put the invariant in my pocket and slap the ghost when he shows up.
+
+The wording was crude.
+
+The intuition survived.
+
+Do not trust what a dependency claims.
+
+Carry what matters.
+
+Verify what survives.
+
+That instinct eventually evolved into questions surrounding provenance, governance, evidence, continuity, and invariant survivability.
 
 ---
 
 ## One Question
 
-Most of my work can be traced back to a single question:
+Most of the repositories connected to this account can be traced back to a single question:
 
 > Can a governing invariant survive every mutation-capable boundary until the irreversible mutation authority?
 
-The question eventually became known as:
+That question later became known as:
 
 **Boundary-to-Boundary Invariant Survival (BBIS)**
 
@@ -92,54 +136,48 @@ Everything else is evidence.
 
 ---
 
-## Areas of Investigation
+## Lessons Learned
 
-- Boundary-to-Boundary Invariant Survival (BBIS)
-- Deterministic Trust & Policy Evidence (DTPE)
-- Governance Survivability
-- Provenance Systems
-- Agent Governance
-- Continuity-First Architecture
-- Recoverability and Verification
-- Living Mycelium Architecture (LMA)
-
----
-
-## Public Record
-
-My work has evolved through:
-
-- Open-source repositories
-- Public issue discussions
-- Standards conversations
-- Governance working groups
-- Independent research efforts
-- Collaborative architecture discussions
-
-The purpose of this repository is not to establish authority.
-
-It is to preserve continuity.
-
----
-
-## Philosophy
+### Lesson 1
 
 Claims are not evidence.
 
+### Lesson 2
+
 Evidence is not verification.
+
+### Lesson 3
 
 Verification is not truth.
 
+### Lesson 4
+
 Truth survives even when execution does not.
+
+### Lesson 5
+
+Continuity is a system property.
+
+Not a memory property.
 
 ---
 
-## Closing Note
+## What This Repository Preserves
 
-Just because I came from somewhere low never meant I wasn't fit to walk among kings.
+- Origins
+- Timeline
+- Key decisions
+- Important realizations
+- Research lineage
+- Historical context
+- Attribution continuity
+- Session continuity practices
+- Evolution of ideas
 
-I started as a beginner.
+---
 
-I'm just learning.
+## Status
 
 The investigation continues.
+
+I am just learning.
