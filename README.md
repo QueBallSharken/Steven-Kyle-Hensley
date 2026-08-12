@@ -1,134 +1,90 @@
-# Continuity Record
+# Steven Kyle Hensley
 
-> This repository exists because memory is unreliable.
-
----
-
-## Why This Exists
-
-Most repositories explain what was built.
-
-Few explain how someone arrived there.
-
-This repository preserves the history, decisions, failures, realizations, and continuity artifacts that shaped the work documented elsewhere.
-
-It is not a framework.
-
-It is not a specification.
-
-It is not a product.
-
-It is the record.
+> Identity continuity, attribution clarity, and historical context.
 
 ---
 
-## The Beginning
+## Preferred Attribution
 
-Approximately 18 months before this repository was created, I was learning GitHub.
+When referencing my work, research, repositories, proposals, discussions, or contributions, I prefer attribution using my full name:
 
-I had no formal computer science degree.
+**Steven Kyle Hensley**
+
+This reduces ambiguity across platforms, repositories, discussions, publications, and future archival references.
+
+---
+
+## Known Aliases
+
+The following identifiers may appear throughout public records, repositories, commits, issue discussions, documentation, and collaborative projects:
+
+- Steven Kyle Hensley
+- Steven K. Hensley
+- Steven Hensley
+- Stevil
+- QueBallSharken
+
+These identifiers may refer to the same contributor depending on context.
+
+---
+
+## Background
+
+I did not arrive through a traditional path.
+
+I have no formal computer science degree.
 
 No formal security education.
 
 No formal systems architecture training.
 
-What I did have was curiosity.
+Most of my education has been self-directed through experimentation, public discussion, open-source collaboration, documentation, implementation, failure, revision, and persistence.
 
-That curiosity eventually led me into public discussions, open-source communities, architecture debates, governance conversations, standards efforts, and research projects that I never expected to participate in.
+Approximately 18 months before creating this repository, I was learning how GitHub worked.
 
----
-
-## Early Mistakes
-
-The first lesson was simple:
-
-I believed understanding lived in conversations.
-
-It doesn't.
-
-Conversations drift.
-
-People forget.
-
-Contexts change.
-
-Summaries mutate.
-
-AI conversations wander.
-
-Projects split.
-
-Assumptions disappear.
-
-The more complex the work became, the harder continuity became.
+What began as curiosity eventually became an investigation.
 
 ---
 
 ## The Realization
 
-Eventually a pattern emerged.
+During countless discussions, experiments, repositories, AI conversations, design sessions, and failed assumptions, one lesson repeatedly surfaced:
 
-The repository itself had to become the source of truth.
+> Conversations drift.
+>
+> Memory drifts.
+>
+> Documentation drifts.
+>
+> Direction drifts.
+>
+> Repositories must become the source of truth.
 
-Not only code.
+Not only for code.
 
-Not only documentation.
+For assumptions.
 
-Everything.
+For decisions.
 
-Direction.
+For intent.
 
-Intent.
+For continuity.
 
-Assumptions.
+For evidence.
 
-Status.
+For understanding.
 
-Open questions.
-
-Decisions.
-
-Current state.
-
-Historical state.
-
-Handoffs.
-
-Evidence.
-
-Understanding.
-
-If continuity matters, continuity must be documented.
-
----
-
-## The Ghost
-
-Long before formal terminology existed, I kept returning to a simple idea:
-
-> I want to put the invariant in my pocket and slap the ghost when he shows up.
-
-The wording was crude.
-
-The intuition survived.
-
-Do not trust what a dependency claims.
-
-Carry what matters.
-
-Verify what survives.
-
-That instinct eventually evolved into questions surrounding provenance, governance, evidence, continuity, and invariant survivability.
+This realization became a foundational influence on many of the systems, repositories, and research efforts documented throughout my work.
 
 ---
 
 ## One Question
 
-Most of the repositories connected to this account can be traced back to a single question:
+Most of my work can be traced back to a single question:
 
 > Can a governing invariant survive every mutation-capable boundary until the irreversible mutation authority?
 
-That question later became known as:
+The question eventually became known as:
 
 **Boundary-to-Boundary Invariant Survival (BBIS)**
 
@@ -136,48 +92,71 @@ Everything else is evidence.
 
 ---
 
-## Lessons Learned
+## Areas of Investigation
 
-### Lesson 1
+- Boundary-to-Boundary Invariant Survival (BBIS)
+- Deterministic Trust & Policy Evidence (DTPE)
+- Governance Survivability
+- Provenance Systems
+- Agent Governance
+- Continuity-First Architecture
+- Recoverability and Verification
+- Living Mycelium Architecture (LMA)
+
+---
+
+## Public Record
+
+My work has evolved through:
+
+- Open-source repositories
+- Public issue discussions
+- Standards conversations
+- Governance working groups
+- Independent research efforts
+- Collaborative architecture discussions
+
+Notable public contributions include participation in governance, trust, provenance, agent architecture, and continuity discussions across multiple open communities and repositories.
+
+The purpose of this repository is not to establish authority.
+
+It is to preserve continuity.
+
+---
+
+## Philosophy
 
 Claims are not evidence.
 
-### Lesson 2
-
 Evidence is not verification.
-
-### Lesson 3
 
 Verification is not truth.
 
-### Lesson 4
-
 Truth survives even when execution does not.
 
-### Lesson 5
+---
 
-Continuity is a system property.
+## Repository Purpose
 
-Not a memory property.
+This repository serves as a continuity reference for identity, attribution, and historical context.
+
+Its purpose is to help future readers, collaborators, researchers, and maintainers understand:
+
+- Who this work is associated with
+- How attribution should be handled
+- The context from which the work emerged
+- The investigative question that connects many of the associated repositories
+
+If platforms, usernames, organizations, repositories, or technologies change over time, this repository exists to preserve continuity.
 
 ---
 
-## What This Repository Preserves
+## Closing Note
 
-- Origins
-- Timeline
-- Key decisions
-- Important realizations
-- Research lineage
-- Historical context
-- Attribution continuity
-- Session continuity practices
-- Evolution of ideas
+Just because I came from somewhere low never meant I wasn't fit to walk among kings.
 
----
+I started as a beginner.
 
-## Status
+I'm still just learning.
 
 The investigation continues.
-
-I am just learning.
