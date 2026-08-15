@@ -26,8 +26,14 @@ For inquiries regarding:
 
 Please contact:
 
-EMAIL: hensleyrd55@gmail.com 
-subject: Stevil Architect inquiry 
+EMAIL: hensleyrd55@gmail.com
+
+SUBJECT:
+Stevil Architect Inquiry
+
+Including the subject line above helps ensure that investment,
+commercialization, intellectual-property, and research inquiries
+are immediately identifiable.
 
 ## Research Areas
 
@@ -69,6 +75,10 @@ Patentability, commercialization, security guarantees, and other
 claims remain subject to appropriate technical, legal, and market
 validation.
 
-For serious investment or intellectual-property inquiries, please
-contact Steven Kyle Hensley directly using the professional contact
-information above.
+Public repository materials should not be interpreted as a guarantee
+of patentability, investment return, technical performance, security,
+or commercial success.
+
+For serious investment, intellectual-property, commercialization,
+partnership, or research inquiries, please contact Steven Kyle Hensley
+directly using the professional contact information above.
