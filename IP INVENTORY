@@ -1,0 +1,771 @@
+# IP INVENTORY
+
+Steven Kyle Hensley
+QueBallSharken / Stevil
+
+Status: PRIVATE COMMERCIALIZATION PREPARATION
+Purpose: Identify potentially protectable technical inventions for
+professional patentability review.
+
+IMPORTANT:
+
+This document is NOT a patentability opinion.
+
+It does NOT establish that any invention is novel, non-obvious,
+patentable, or exclusively attributable to one person.
+
+It is an invention inventory intended for review by qualified
+patent counsel.
+
+============================================================
+1. INVENTION FAMILY — BBIS
+============================================================
+
+Working Name:
+
+Boundary-to-Boundary Invariant Survival
+
+Short Description:
+
+A governance property and associated implementation mechanisms for
+maintaining an enforceable governing invariant across mutation-capable
+execution boundaries until the actual irreversible mutation authority.
+
+Core Question:
+
+Can a governing invariant survive every mutation-capable boundary until
+the irreversible mutation authority?
+
+Potential Technical Subject:
+
+- canonical governing state
+- mutation-capable boundary identification
+- boundary-local verification
+- invariant propagation
+- invariant recomputation
+- refusal semantics
+- commit-point enforcement
+- alternate-path enforcement
+- retry/recovery enforcement
+- final-boundary enforcement
+
+Existing Evidence:
+
+- OWASP engagement
+- Issue #817
+- BBIS research
+- stress-test concepts
+- related implementation work
+
+Potential IP Category:
+
+Utility patent candidate / architecture and implementation review.
+
+Patentability Status:
+
+UNASSESSED
+
+Required Next Step:
+
+Professional prior-art and patentability analysis.
+
+============================================================
+2. INVENTION FAMILY — AIC
+============================================================
+
+Working Name:
+
+Active Invariant Cloning
+
+Short Description:
+
+A mechanism for reproducing a governing invariant at execution
+boundaries while preserving the invariant's operational refusal
+semantics rather than merely copying historical authorization data.
+
+Potential Technical Subject:
+
+- canonical invariant representation
+- boundary-local invariant reproduction
+- semantic preservation
+- refusal-condition preservation
+- mutation-boundary verification
+- active rather than historical governance
+
+Existing Evidence:
+
+- AIC research repository
+- technical audit work
+- formalized enforcement analysis
+- implementation/research artifacts
+
+Patentability Status:
+
+UNASSESSED
+
+Required Next Step:
+
+Separate AIC from BBIS and determine whether the implementation
+contains independently protectable mechanisms.
+
+============================================================
+3. INVENTION FAMILY — DTPE
+============================================================
+
+Working Name:
+
+Deterministic Trust & Policy Evidence
+
+Short Description:
+
+A deterministic execution-evidence mechanism for evaluating whether a
+specific decision followed a specific policy and authority state.
+
+Potential Technical Subject:
+
+- canonical policy snapshot
+- authority snapshot
+- deterministic evaluation
+- decision receipt
+- evidence binding
+- reproducible decision verification
+- receipt identity
+- execution provenance
+
+Existing Evidence:
+
+- DTPE research
+- canonical receipts
+- deterministic execution concepts
+- implementation artifacts
+
+Patentability Status:
+
+UNASSESSED
+
+Required Next Step:
+
+Determine whether the implementation contains a novel technical
+mechanism beyond conventional policy engines, logging, provenance,
+or authorization systems.
+
+============================================================
+4. INVENTION FAMILY — IRONCLAD
+============================================================
+
+Working Name:
+
+IRONCLAD Echo System
+
+Short Description:
+
+A defensive governance verifier combining boundary verification,
+canonical snapshots, invariant echo, deterministic receipts,
+fail-sealed behavior, privileged quorum controls, and inert
+containment.
+
+Potential Technical Subject:
+
+- canonical snapshot verification
+- boundary recomputation
+- invariant echo
+- deterministic decision receipts
+- fail-sealed governance
+- decoy containment
+- quorum-controlled governance mutation
+- host observation
+- proof-hardening
+- receipt schemas
+- governance artifact validation
+
+Existing Implementation:
+
+IRONCLAD Echo System repository.
+
+Repository:
+
+QueBallSharken/IRONCLAD-echo-system
+
+Current Build:
+
+Private/local verifier and defensive test harness.
+
+Current Limitations:
+
+- no claimed firmware/root authority
+- no claimed TPM enforcement
+- no claimed Secure Boot enforcement
+- no claimed hypervisor enforcement
+- no real cryptographic signature implementation yet
+- no production deployment claim
+
+Patentability Status:
+
+UNASSESSED
+
+Required Next Step:
+
+Decompose IRONCLAD into individual technical mechanisms rather than
+attempting to patent the entire repository as one undifferentiated
+system.
+
+============================================================
+5. INVENTION FAMILY — SAFEBOX
+============================================================
+
+Working Name:
+
+SafeBox Decoy Containment
+
+Short Description:
+
+A defensive containment model in which suspicious execution is routed
+into an inert environment that preserves the shape of authorized
+interaction without exposing real authority, secrets, or production
+state.
+
+Core Rule:
+
+No real secrets in the decoy.
+
+No real authority in the decoy.
+
+Potential Technical Subject:
+
+- suspicious-path routing
+- inert authority simulation
+- decoy governance
+- canonical verification
+- separation between production and decoy state
+- containment receipts
+- boundary-specific refusal
+
+Patentability Status:
+
+UNASSESSED
+
+Required Next Step:
+
+Determine whether the mechanism is technically distinct from existing
+honeypot, sandbox, deception, and isolation technologies.
+
+============================================================
+6. INVENTION FAMILY — QUORUM GOVERNANCE
+============================================================
+
+Working Name:
+
+Quorum-Controlled Governance Mutation
+
+Short Description:
+
+A mechanism requiring multiple authorized human roles/keys to approve
+changes to canonical governance state while producing deterministic
+evidence of the approval process.
+
+Potential Technical Subject:
+
+- multi-party approval
+- role separation
+- anti-self-approval
+- revocation checking
+- snapshot binding
+- policy-hash binding
+- approval receipts
+- deterministic verification
+- fail-closed mutation
+
+Existing Evidence:
+
+IRONCLAD quorum schemas and verifier tests.
+
+Patentability Status:
+
+UNASSESSED
+
+Required Next Step:
+
+Prior-art analysis against threshold authorization, multisignature,
+change-control, and policy-management systems.
+
+============================================================
+7. INVENTION FAMILY — SNAPSHOT BOUNDARY CHECK
+============================================================
+
+Working Name:
+
+Canonical Snapshot Boundary Recalculation
+
+Short Description:
+
+A local execution boundary independently compares its state against a
+canonical governance snapshot before allowing a governed mutation.
+
+Potential Technical Subject:
+
+- canonical snapshot
+- local comparison
+- snapshot hash
+- stale-state detection
+- policy-hash change detection
+- mutation refusal
+- compromised-host protection
+- quorum-controlled snapshot mutation
+
+Existing Evidence:
+
+IRONCLAD implementation and examples.
+
+Patentability Status:
+
+UNASSESSED
+
+Required Next Step:
+
+Determine whether this is independently protectable or better treated
+as an embodiment of BBIS/DTPE/IRONCLAD.
+
+============================================================
+8. INVENTION FAMILY — GOVERNANCE RECEIPTS
+============================================================
+
+Working Name:
+
+Deterministic Governance Evidence Receipts
+
+Short Description:
+
+A portable evidence object representing the inputs, governing state,
+decision, verifier state, and result of a governance evaluation.
+
+Potential Technical Subject:
+
+- canonical JSON
+- deterministic receipt identifiers
+- policy binding
+- snapshot binding
+- decision binding
+- reason codes
+- reproducibility
+- receipt export
+- schema validation
+
+Existing Evidence:
+
+IRONCLAD receipts.py
+Verifier decision receipt schema
+Receipt export
+Deterministic receipt tests
+
+Patentability Status:
+
+UNASSESSED
+
+Required Next Step:
+
+Prior-art analysis against audit logs, signed attestations,
+provenance systems, transparency logs, and authorization receipts.
+
+============================================================
+9. INVENTION FAMILY — LMA
+============================================================
+
+Working Name:
+
+Living Mycelium Architecture
+
+Short Description:
+
+Continuity-first distributed architecture emphasizing survival of
+truth, evidence, and recoverability across failures of execution,
+infrastructure, documentation, and individual components.
+
+Potential Technical Subject:
+
+To be determined.
+
+Patentability Status:
+
+UNASSESSED
+
+Important:
+
+LMA currently appears broader and more architectural/philosophical than
+the more concrete verifier mechanisms above.
+
+Do not assume patentability.
+
+First determine whether LMA contains concrete technical mechanisms
+that can be separately described and implemented.
+
+============================================================
+10. INVENTION FAMILY — GOVERNANCE CONTINUITY
+============================================================
+
+Working Name:
+
+Governance Continuity / Invariant Survival Property
+
+Short Description:
+
+A formal and implementation-oriented approach to determining whether a
+safety predicate remains capable of refusing execution throughout a
+non-atomic mutation path.
+
+Potential Technical Subject:
+
+- intermediate mutation stages
+- safety predicate survival
+- refusal continuity
+- mutation-path coverage
+- irreversible primitive identification
+- commit-point enforcement
+
+Relationship:
+
+Potential theoretical foundation for BBIS.
+
+Patentability Status:
+
+UNASSESSED
+
+Important:
+
+A mathematical principle or abstract idea alone should not be assumed
+to be patentable.
+
+The patent analysis should focus on concrete technical implementations.
+
+============================================================
+11. PRIORITY ORDER
+============================================================
+
+The initial patent review should NOT treat every research concept
+equally.
+
+Priority candidates:
+
+TIER 1
+
+1. IRONCLAD boundary verification
+2. AIC implementation mechanisms
+3. BBIS enforcement mechanisms
+4. DTPE deterministic evidence mechanisms
+
+TIER 2
+
+5. Snapshot boundary recalculation
+6. Governance receipt mechanisms
+7. Quorum-controlled governance mutation
+
+TIER 3
+
+8. SafeBox containment
+9. LMA technical mechanisms
+10. broader governance-continuity concepts
+
+Reason:
+
+The strongest candidates should be those with:
+
+- concrete implementation
+- reproducible behavior
+- identifiable technical mechanism
+- measurable result
+- clear problem solved
+- potential commercial customer
+- defensible distinction from existing systems
+
+============================================================
+12. INVENTOR / CONTRIBUTOR RECORD
+============================================================
+
+Primary researcher:
+
+Steven Kyle Hensley
+
+Known identifiers:
+
+Steven Kyle Hensley
+Steven K. Hensley
+Steven Hensley
+QueBallSharken
+Stevil
+
+Collaborators must be recorded separately for each invention.
+
+Do not assume that participation in a discussion automatically establishes
+inventorship.
+
+Inventorship must be determined according to the actual contribution to
+the claimed invention.
+
+Relevant collaborators may include:
+
+- Richard Porter
+- Bradley Bates
+
+Their actual contributions should be documented per invention before
+any patent filing.
+
+============================================================
+13. PUBLIC DISCLOSURE RECORD
+============================================================
+
+This section must be completed before patent counsel evaluates each
+candidate.
+
+For every invention record:
+
+FIRST DEVELOPMENT DATE:
+
+FIRST IMPLEMENTATION DATE:
+
+FIRST PUBLIC DOCUMENTATION:
+
+FIRST PUBLIC REPOSITORY:
+
+FIRST PUBLIC ISSUE/DISCUSSION:
+
+PUBLIC DISCLOSURE DATE:
+
+PUBLIC DEMONSTRATION:
+
+PUBLIC RELEASE:
+
+KNOWN COLLABORATORS:
+
+KNOWN PRIOR ART:
+
+UNKNOWN / REQUIRES VERIFICATION:
+
+============================================================
+14. IP EVIDENCE RULE
+============================================================
+
+Repository history is evidence of development history.
+
+It is NOT automatically proof of patentability.
+
+Git commits may establish chronology.
+
+Issue discussions may establish public disclosure.
+
+Specifications may establish implementation detail.
+
+Tests may establish technical operation.
+
+Independent review may establish reproducibility.
+
+Patentability still requires professional legal analysis.
+
+============================================================
+15. INVESTOR VALUE
+============================================================
+
+The investor does not need to be told:
+
+"I have ten patents."
+
+That claim would be premature.
+
+The stronger statement is:
+
+"I have a portfolio of implemented technical systems and research
+mechanisms that are now being decomposed into candidate IP families
+for professional patentability analysis."
+
+This is accurate.
+
+It is defensible.
+
+And it gives an investor a concrete use for capital:
+
+CAPITAL
+   |
+   +--> IP analysis
+   |
+   +--> prior-art research
+   |
+   +--> patent filings
+   |
+   +--> independent validation
+   |
+   +--> prototype development
+   |
+   +--> customer pilots
+   |
+   +--> commercial licensing
+
+============================================================
+16. IMMEDIATE CAPITAL TARGET
+============================================================
+
+Initial target:
+
+$5,000 – $25,000
+
+Purpose:
+
+- patentability triage
+- professional IP consultation
+- prior-art analysis
+- invention disclosures
+- technical validation
+- investor materials
+
+Second target:
+
+$25,000 – $100,000
+
+Purpose:
+
+- initial patent portfolio
+- independent security review
+- prototype hardening
+- customer pilots
+- commercialization
+
+Later target:
+
+$250,000 – $1,000,000+
+
+Purpose:
+
+- engineering
+- patent prosecution
+- enterprise pilots
+- sales
+- infrastructure
+- compliance
+- strategic partnerships
+
+These are planning ranges only.
+
+They are not valuations.
+
+They are not guaranteed costs.
+
+They are not claims about expected investor return.
+
+============================================================
+17. CAPITAL PRINCIPLE
+============================================================
+
+Do not raise money simply to continue building indefinitely.
+
+Capital should increase the value of the underlying assets.
+
+Therefore:
+
+PROTECT
+   |
+   v
+VALIDATE
+   |
+   v
+DEMONSTRATE
+   |
+   v
+PILOT
+   |
+   v
+REVENUE
+   |
+   v
+SCALE
+
+============================================================
+18. NEXT ACTION
+============================================================
+
+The next concrete task is to create:
+
+INVENTION_DISCLOSURE_INDEX.md
+
+Each candidate invention will receive:
+
+INVENTION-ID
+
+TITLE
+
+PROBLEM
+
+TECHNICAL MECHANISM
+
+IMPLEMENTATION
+
+DATE HISTORY
+
+PUBLIC DISCLOSURE HISTORY
+
+COLLABORATORS
+
+CURRENT REPOSITORY
+
+TEST EVIDENCE
+
+KNOWN LIMITATIONS
+
+POTENTIAL CLAIM TERRITORY
+
+PRIOR-ART QUESTIONS
+
+PATENTABILITY REVIEW STATUS
+
+COMMERCIAL USE CASE
+
+POTENTIAL CUSTOMER
+
+ESTIMATED VALIDATION COST
+
+ESTIMATED IP COST
+
+============================================================
+19. FINAL RULE
+============================================================
+
+Do not confuse:
+
+research value
+
+with
+
+patent value
+
+or
+
+patent value
+
+with
+
+company value.
+
+The objective is to establish evidence for all three.
+
+Research:
+
+Can the mechanism work?
+
+IP:
+
+Can the technical mechanism be protected?
+
+Commercial:
+
+Will somebody pay for it?
+
+Investment:
+
+Can additional capital increase the value of the protected technology?
+
+That is the path.
+
+============================================================
+
+Steven Kyle Hensley
+QueBallSharken / Stevil
+
+OPEN RESEARCH
+COMMERCIALIZATION PREPARATION
+IP REVIEW REQUIRED
