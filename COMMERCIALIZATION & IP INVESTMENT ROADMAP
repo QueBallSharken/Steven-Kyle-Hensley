@@ -1,0 +1,923 @@
+# COMMERCIALIZATION & IP INVESTMENT ROADMAP
+
+Steven Kyle Hensley
+QueBallSharken / Stevil
+
+Status: OPEN RESEARCH / COMMERCIALIZATION PREPARATION
+
+Purpose:
+
+This document defines the path from publicly documented research and
+working prototypes toward intellectual-property protection, independent
+validation, commercialization, licensing, consulting, and potential
+investment.
+
+The objective is not to claim that every research concept is already
+patentable.
+
+The objective is to identify potentially protectable technical inventions,
+preserve priority evidence, determine patentability with qualified counsel,
+and build commercially useful implementations around the research.
+
+============================================================
+1. THE PORTFOLIO
+============================================================
+
+The current research portfolio includes multiple related but distinguishable
+technical systems and research directions.
+
+Primary systems include:
+
+- Boundary-to-Boundary Invariant Survival (BBIS)
+- Active Invariant Cloning (AIC)
+- Deterministic Trust & Policy Evidence (DTPE)
+- IRONCLAD Echo System
+- Identical Invariant Cloning (IIC)
+- Intent and Accountability Layer (IAL)
+- Living Mycelium Architecture (LMA)
+- Canonical execution evidence
+- Governance continuity mechanisms
+- Boundary verification and refusal mechanisms
+- Deterministic decision receipts
+- Snapshot-boundary recomputation
+- Fail-sealed governance
+- SafeBox decoy containment
+- Quorum-controlled privileged access
+- Governance artifact schemas
+- Host-observation proof hardening
+
+These should not automatically be treated as one patent.
+
+They should first be decomposed into individual technical inventions,
+architectural combinations, implementation mechanisms, and potentially
+patentable claim families.
+
+============================================================
+2. CORE INVESTMENT THESIS
+============================================================
+
+Modern agentic systems increasingly perform actions across multiple
+execution boundaries.
+
+The fundamental research problem is:
+
+Can a governing invariant survive every mutation-capable boundary until
+the irreversible mutation authority?
+
+The commercial problem is:
+
+How can organizations prove that an AI or automated system remained
+authorized, policy-compliant, attributable, and governable throughout
+execution?
+
+The proposed technology portfolio addresses this problem through:
+
+- canonical state
+- boundary-local verification
+- invariant survival
+- deterministic decision evaluation
+- signed evidence
+- receipt generation
+- provenance
+- accountability
+- fail-sealed behavior
+- privileged human quorum
+- containment
+- auditability
+
+The commercial opportunity exists wherever autonomous or semi-autonomous
+systems must demonstrate trustworthy execution.
+
+Potential markets include:
+
+- AI agent governance
+- enterprise AI security
+- financial automation
+- regulated automation
+- cloud infrastructure
+- cybersecurity
+- identity and authorization
+- robotics
+- industrial automation
+- healthcare automation
+- critical infrastructure
+- autonomous systems
+- compliance and audit
+- high-assurance software
+
+============================================================
+3. IMPORTANT IP POSITION
+============================================================
+
+Public disclosure and patent strategy must be handled carefully.
+
+The existence of a public GitHub repository does not automatically mean
+that every implementation detail is unprotectable.
+
+However, public disclosure can materially affect patent rights, novelty,
+timing, and international filing strategy.
+
+Therefore:
+
+DO NOT assume that public documentation equals patent protection.
+
+DO NOT publicly disclose additional unpublished invention details merely
+to strengthen an investor pitch.
+
+DO NOT represent an invention as "patented" until a patent has actually
+been filed or granted.
+
+Before making additional public disclosures concerning potentially
+patentable subject matter:
+
+1. Identify the invention.
+2. Preserve the existing evidence.
+3. Establish the disclosure timeline.
+4. Consult qualified patent counsel.
+5. Determine whether provisional or non-provisional filing is appropriate.
+6. Determine international filing strategy.
+7. Only then expand public technical disclosure.
+
+============================================================
+4. FIRST INVESTOR OBJECTIVE
+============================================================
+
+The first investor objective is NOT:
+
+"Fund a giant company."
+
+The first objective is:
+
+FUND IP PROTECTION + TECHNICAL VALIDATION.
+
+Initial capital should establish:
+
+- patentability analysis
+- prior-art search
+- patent counsel
+- provisional patent filings where appropriate
+- invention disclosures
+- clean technical documentation
+- reproducible demonstrations
+- independent technical review
+- security review
+- commercialization analysis
+- investor-grade documentation
+
+This creates a protected foundation from which larger financing can occur.
+
+============================================================
+5. INITIAL CAPITAL TARGET
+============================================================
+
+Planning ranges only.
+
+These are not quotes from patent counsel, attorneys, consultants, or
+vendors.
+
+------------------------------------------------------------
+STAGE 0 — IP TRIAGE
+------------------------------------------------------------
+
+Target:
+
+$2,500 – $10,000
+
+Potential uses:
+
+- invention inventory
+- patentability screening
+- prior-art search
+- IP strategy consultation
+- technical claim decomposition
+- identification of potentially distinct patent families
+
+Goal:
+
+Determine which inventions deserve formal patent work.
+
+------------------------------------------------------------
+STAGE 1 — INITIAL PATENT PROTECTION
+------------------------------------------------------------
+
+Planning range:
+
+$10,000 – $40,000+
+
+Potential uses:
+
+- provisional applications
+- patent drafting
+- claim development
+- drawings
+- attorney review
+- filing fees
+- continuation strategy planning
+
+Actual costs vary substantially by complexity and jurisdiction.
+
+Goal:
+
+Convert the strongest technical inventions into properly evaluated
+intellectual-property assets.
+
+------------------------------------------------------------
+STAGE 2 — TECHNICAL VALIDATION
+------------------------------------------------------------
+
+Planning range:
+
+$10,000 – $50,000+
+
+Potential uses:
+
+- independent code review
+- security testing
+- formal verification work
+- reproducible benchmarks
+- test infrastructure
+- demonstration environments
+- documentation
+- technical advisory review
+
+Goal:
+
+Demonstrate that the technology works beyond the author's own testing.
+
+------------------------------------------------------------
+STAGE 3 — COMMERCIAL PROTOTYPE
+------------------------------------------------------------
+
+Planning range:
+
+$25,000 – $150,000+
+
+Potential uses:
+
+- production architecture
+- cloud infrastructure
+- enterprise integration
+- API development
+- dashboards
+- deployment tooling
+- security engineering
+- customer pilots
+
+Goal:
+
+Turn the research artifact into something an organization can evaluate.
+
+------------------------------------------------------------
+STAGE 4 — SEED COMMERCIALIZATION
+------------------------------------------------------------
+
+Potential range:
+
+$250,000 – $1,000,000+
+
+Potential uses:
+
+- engineering
+- patent portfolio expansion
+- security/compliance
+- sales
+- customer pilots
+- partnerships
+- legal
+- infrastructure
+- founder runway
+
+Goal:
+
+Convert validated IP into recurring commercial revenue.
+
+These figures are planning bands, not a claim that this amount of money
+is required.
+
+============================================================
+6. REVENUE BEFORE LARGE INVESTMENT
+============================================================
+
+Investment should not be the only path.
+
+The portfolio can generate revenue before a major institutional round.
+
+Potential early revenue channels:
+
+------------------------------------------------------------
+A. ARCHITECTURE CONSULTING
+------------------------------------------------------------
+
+Offer architecture reviews concerning:
+
+- AI agent governance
+- execution boundaries
+- authorization continuity
+- provenance
+- decision evidence
+- governance failure modes
+
+Planning rates:
+
+$100 – $300/hour initially
+
+Potential specialist consulting:
+
+$250 – $500+/hour
+
+Actual market rates depend on demonstrated expertise, customer type,
+scope, and contractual requirements.
+
+------------------------------------------------------------
+B. SECURITY / GOVERNANCE AUDITS
+------------------------------------------------------------
+
+Deliver:
+
+- boundary analysis
+- governance continuity analysis
+- evidence analysis
+- execution-path analysis
+- failure-mode analysis
+- agent authorization review
+
+Potential project range:
+
+$2,500 – $25,000+
+
+------------------------------------------------------------
+C. PRIVATE ARCHITECTURE REVIEW
+------------------------------------------------------------
+
+A customer provides an architecture.
+
+The researcher produces:
+
+- boundary map
+- mutation map
+- authority map
+- invariant map
+- refusal analysis
+- evidence gaps
+- recommendations
+
+Potential project range:
+
+$5,000 – $30,000+
+
+------------------------------------------------------------
+D. ENTERPRISE PILOTS
+------------------------------------------------------------
+
+Deploy a restricted verifier or governance prototype into a controlled
+customer environment.
+
+Potential pilot range:
+
+$10,000 – $50,000+
+
+------------------------------------------------------------
+E. LICENSING
+------------------------------------------------------------
+
+Potential future licensing models:
+
+- per deployment
+- per protected execution boundary
+- per agent
+- per transaction
+- annual enterprise license
+- OEM licensing
+- technology-transfer agreement
+
+Pricing should be established only after customer validation.
+
+------------------------------------------------------------
+F. RESEARCH SPONSORSHIP
+------------------------------------------------------------
+
+Organizations may sponsor:
+
+- research
+- formal verification
+- security testing
+- prototype development
+- standards participation
+- open-source infrastructure
+
+Possible sponsorship range:
+
+$5,000 – $100,000+
+
+depending on scope and sponsor.
+
+============================================================
+7. INVESTOR PACKAGING
+============================================================
+
+The investor package should NOT begin with a giant technical dump.
+
+Create five artifacts.
+
+------------------------------------------------------------
+DOCUMENT 1 — ONE-PAGE INVESTMENT BRIEF
+------------------------------------------------------------
+
+Contains:
+
+Problem
+
+Technology
+
+Why existing approaches are insufficient
+
+Prototype evidence
+
+Potential IP
+
+Market
+
+Business model
+
+Capital request
+
+Use of funds
+
+Founder
+
+Contact
+
+------------------------------------------------------------
+DOCUMENT 2 — TECHNICAL DUE-DILIGENCE PACKET
+------------------------------------------------------------
+
+Contains:
+
+- architecture
+- repositories
+- test results
+- demonstrations
+- specifications
+- threat models
+- limitations
+- known unbuilt components
+- reproducibility instructions
+
+------------------------------------------------------------
+DOCUMENT 3 — IP INVENTORY
+------------------------------------------------------------
+
+For every candidate invention:
+
+INVENTION ID
+
+Name
+
+Problem solved
+
+Technical mechanism
+
+Novel aspect
+
+Existing implementation
+
+Repository
+
+First known development date
+
+Public disclosures
+
+Collaborators
+
+Potential patent family
+
+Prior-art questions
+
+Patentability status
+
+Attorney review status
+
+------------------------------------------------------------
+DOCUMENT 4 — PROVENANCE PACKAGE
+------------------------------------------------------------
+
+Include:
+
+- Git history
+- OWASP discussions
+- issue references
+- specifications
+- design evolution
+- collaboration records
+- test artifacts
+- dated releases
+- independent reviews
+
+The purpose is not to claim that public history proves patentability.
+
+The purpose is to establish a clean research lineage.
+
+------------------------------------------------------------
+DOCUMENT 5 — COMMERCIALIZATION ROADMAP
+------------------------------------------------------------
+
+Show:
+
+Research
+   |
+   v
+Prototype
+   |
+   v
+Independent Validation
+   |
+   v
+IP Protection
+   |
+   v
+Customer Pilot
+   |
+   v
+Revenue
+   |
+   v
+Seed Investment
+   |
+   v
+Enterprise Deployment
+   |
+   v
+Licensing / Acquisition
+
+============================================================
+8. CANDIDATE IP FAMILIES
+============================================================
+
+The following are candidates for professional IP analysis.
+
+They are NOT declarations that patents are available.
+
+------------------------------------------------------------
+FAMILY A
+------------------------------------------------------------
+
+Boundary-to-Boundary Invariant Survival
+
+Potential subject:
+
+Maintaining an enforceable governing invariant across mutation-capable
+execution boundaries until an irreversible mutation authority.
+
+------------------------------------------------------------
+FAMILY B
+------------------------------------------------------------
+
+Active Invariant Cloning
+
+Potential subject:
+
+Boundary-local reproduction of a canonical governing invariant while
+preserving its refusal semantics.
+
+------------------------------------------------------------
+FAMILY C
+------------------------------------------------------------
+
+Deterministic Trust & Policy Evidence
+
+Potential subject:
+
+Deterministic generation of evidence demonstrating whether a decision
+followed a specific policy and authority snapshot.
+
+------------------------------------------------------------
+FAMILY D
+------------------------------------------------------------
+
+IRONCLAD Echo System
+
+Potential subject:
+
+Integrated governance architecture combining invariant echo,
+canonical snapshots, boundary verification, deterministic receipts,
+fail-sealed behavior, and inert containment.
+
+------------------------------------------------------------
+FAMILY E
+------------------------------------------------------------
+
+SafeBox Decoy Governance
+
+Potential subject:
+
+Routing suspicious execution into an inert environment that preserves
+governance structure without exposing production authority or secrets.
+
+------------------------------------------------------------
+FAMILY F
+------------------------------------------------------------
+
+Quorum-Controlled Governance Mutation
+
+Potential subject:
+
+Multi-party authorization and deterministic receipt generation for
+changes to canonical governance state.
+
+------------------------------------------------------------
+FAMILY G
+------------------------------------------------------------
+
+Snapshot Boundary Recalculation
+
+Potential subject:
+
+Local boundary recomputation against canonical governance state before
+mutation authorization.
+
+------------------------------------------------------------
+FAMILY H
+------------------------------------------------------------
+
+Governance Evidence Receipt Chain
+
+Potential subject:
+
+Deterministic, portable execution receipts representing policy,
+authority, decision, boundary, and failure state.
+
+These families may overlap.
+
+A patent attorney should determine whether they represent:
+
+- separate inventions
+- combinations
+- continuations
+- dependent claims
+- implementation-specific embodiments
+- or non-patentable concepts
+
+============================================================
+9. INVESTOR OFFER STRUCTURE
+============================================================
+
+Do not casually promise ownership percentages.
+
+Do not sell intellectual property before understanding its value.
+
+Do not transfer patent rights merely to obtain short-term cash.
+
+Possible structures for professional discussion include:
+
+- SAFE
+- convertible note
+- priced equity
+- research sponsorship
+- strategic investment
+- IP-specific investment vehicle
+- licensing advance
+- sponsored development agreement
+
+Any actual financing structure should be reviewed by qualified counsel.
+
+============================================================
+10. WHAT MAKES THIS INVESTABLE
+============================================================
+
+The strongest investment story is NOT:
+
+"I invented a bunch of concepts."
+
+It is:
+
+"I identified a recurring failure mode in agentic execution governance,
+formalized it, built testable artifacts around it, documented the research
+lineage publicly, and am now seeking capital to independently validate,
+protect, and commercialize the strongest inventions."
+
+That is a substantially stronger proposition.
+
+============================================================
+11. WHAT WE NEED TO PROVE
+============================================================
+
+Before approaching serious investors, establish:
+
+1. The technology works.
+2. The tests are reproducible.
+3. The claims are narrowly defined.
+4. The limitations are explicit.
+5. The inventions are technically distinguishable.
+6. Prior art has been investigated.
+7. Patent counsel has evaluated the strongest candidates.
+8. At least one customer problem is real.
+9. At least one customer is willing to test the technology.
+10. Someone will pay for the resulting capability.
+
+============================================================
+12. 30-DAY CAPITALIZATION PLAN
+============================================================
+
+WEEK 1
+
+Preserve evidence.
+
+- freeze important repository states
+- create releases
+- document invention dates
+- preserve Git history
+- organize provenance
+- identify collaborators
+- identify public disclosures
+- create IP inventory
+
+WEEK 2
+
+Technical package.
+
+- architecture diagrams
+- reproducible tests
+- demonstrations
+- threat models
+- limitations
+- benchmark results
+- independent review targets
+
+WEEK 3
+
+Commercial package.
+
+- one-page investment brief
+- customer problem statement
+- service offerings
+- pilot proposal
+- preliminary pricing
+- market hypothesis
+- use-of-funds plan
+
+WEEK 4
+
+Capital outreach.
+
+Target:
+
+- angel investors
+- deep-tech investors
+- cybersecurity investors
+- AI infrastructure investors
+- enterprise security investors
+- strategic technology companies
+- university technology-transfer contacts
+- government research programs
+- research sponsors
+
+============================================================
+13. THE FIRST MONEY
+============================================================
+
+The first money does not need to be millions.
+
+The first objective is:
+
+$5,000 – $25,000
+
+to establish professional IP and commercialization groundwork.
+
+Then:
+
+$25,000 – $100,000
+
+for stronger validation, prototype development, and customer pilots.
+
+Then:
+
+$250,000+
+
+for serious commercialization.
+
+The objective is to create progressively stronger evidence that increases
+the value of the underlying IP rather than simply raising money.
+
+============================================================
+14. FOUNDER POSITIONING
+============================================================
+
+The founder story should be honest.
+
+No invented credentials.
+
+No institutional endorsement claims.
+
+No exaggerated patent claims.
+
+No claim that a concept is novel merely because it feels novel.
+
+The story is:
+
+Self-directed researcher.
+
+Approximately 18 months from learning GitHub to building and documenting
+a growing body of research concerning AI governance, authorization,
+provenance, invariant survival, deterministic evidence, and continuity.
+
+The public repositories provide inspectable artifacts.
+
+The research is open to adversarial review.
+
+The next step is professional validation and protection.
+
+============================================================
+15. CORE INVESTOR MESSAGE
+============================================================
+
+The pitch in one paragraph:
+
+"Agentic systems can carry authorization, policy, and intent through
+complex execution chains while losing the conditions that made an action
+legitimate. My research focuses on whether those governing conditions can
+remain enforceable across every mutation-capable boundary until the actual
+irreversible action. I have built open, testable research artifacts around
+this problem, including BBIS, DTPE, and IRONCLAD. I am seeking capital and
+strategic partners to independently validate the technology, protect the
+strongest inventions through appropriate IP strategy, and convert the
+research into enterprise-grade governance infrastructure."
+
+============================================================
+16. IMMEDIATE PRIORITY
+============================================================
+
+DO NOT BUILD MORE FEATURES FIRST.
+
+The immediate objective is:
+
+PROTECT -> VALIDATE -> DEMONSTRATE -> SELL
+
+not:
+
+BUILD -> BUILD -> BUILD -> BUILD
+
+The existing research needs to start producing economic evidence.
+
+============================================================
+17. SUCCESS CONDITION
+============================================================
+
+Success is not measured initially by:
+
+GitHub stars.
+
+Forks.
+
+Followers.
+
+Likes.
+
+The first meaningful commercial milestones are:
+
+1. Professional IP assessment.
+2. First protected invention.
+3. Independent technical validation.
+4. First paid architecture engagement.
+5. First paid pilot.
+6. First recurring customer.
+7. Strategic investment.
+8. Licensing opportunity.
+
+============================================================
+18. FINAL PRINCIPLE
+============================================================
+
+The research already has a public record.
+
+Now the goal is to turn that record into:
+
+Evidence
+   +
+Validation
+   +
+IP protection
+   +
+Customer value
+   =
+Commercial leverage
+
+The work does not need to stop being open research.
+
+It needs a second layer:
+
+RESEARCH -> ASSET -> PRODUCT -> REVENUE
+
+Steven Kyle Hensley
+QueBallSharken / Stevil
+
+Status:
+
+OPEN RESEARCH / COMMERCIALIZATION PREPARATION
+
+Not a patentability opinion.
+Not legal advice.
+Not an investment solicitation.
+Not a valuation.
+
+A roadmap for converting documented technical research into professionally
+validated and potentially protectable commercial assets.
